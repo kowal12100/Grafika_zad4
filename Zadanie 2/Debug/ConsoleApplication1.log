@@ -1,0 +1,7 @@
+﻿  targa.cpp
+c:\users\kamil\desktop\grafika\zadanie 2\consoleapplication1\consoleapplication1\targa.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\kamil\desktop\grafika\zadanie 2\consoleapplication1\consoleapplication1\targa.cpp(121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  ConsoleApplication1.vcxproj -> C:\Users\Kamil\Desktop\Grafika\Zadanie 2\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Kamil\Desktop\Grafika\Zadanie 2\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
